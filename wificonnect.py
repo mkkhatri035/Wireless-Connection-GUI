@@ -5,6 +5,7 @@ from pywifi import const
 import json
 import PySimpleGUI as sg
 '''
+By: Manish
 A module used to connect to WIFI using python uses pywifi module as base
 
 Method:-
